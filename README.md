@@ -1,5 +1,10 @@
 # Pdf-Encryptor
 
+requirements
+```
+$ pip install PyPDF4==1.27.0 pyAesCrypt==6.0.0
+```
+
 syntax
 
 ``` python
