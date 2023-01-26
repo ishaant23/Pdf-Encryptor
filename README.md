@@ -8,7 +8,7 @@ $ pip install PyPDF4==1.27.0 pyAesCrypt==6.0.0
 syntax
 
 ``` python
-python pdf_encrypter.py < input-file > -a < action > -l < level > -p < password > -o < output-file >
+python pdf.py < input-file > -a < action > -l < level > -p < password > -o < output-file >
 ```
 input file - the file you want to encrypt or decrypt
 
